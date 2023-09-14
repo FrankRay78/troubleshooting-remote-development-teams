@@ -4,7 +4,7 @@ What to do when your remote developers on the other side of the world aren't doi
 
 ## Table of contents
 
-Chapter 1. Difficulties of outsourcing and offshoring  
+[Chapter 1. Difficulties of outsourcing and offshoring](Chapter1.md)  
 Chapter 2. 
 
 © Frank Ray Consulting Ltd 2023
