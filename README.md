@@ -4,6 +4,12 @@ What to do when your remote developers on the other side of the world aren't doi
 
 By Frank Ray, Software Engineer ([Website](https://frankray.net/start-here/))
 
+## Summary
+
+The underperformance of remote development teams is an uncomfortable topic for the software industry to talk about, particularly if you are in the business of buying or supplying low-cost developers.
+
+Thankfully, fixing broken and underperforming remote teams is not as difficult or costly as you may think. This book explains exactly how to do this.
+
 ## Table of contents
 
 [Chapter 1. Difficulties of outsourcing and offshoring](Chapter1.md)  
@@ -11,7 +17,7 @@ By Frank Ray, Software Engineer ([Website](https://frankray.net/start-here/))
 Chapter 3. Clear and unambiguous software requirements  
 Chapter 4. Examples of poor, better and best requirements  
 Chapter 5. Enabling and supporting factors for your remote team  
-Chapter 6. An engaged and switched on product owner  
+Chapter 6. Having an engaged and switched on product owner  
 
 ---
 
