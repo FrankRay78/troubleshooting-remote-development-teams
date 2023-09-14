@@ -1,3 +1,5 @@
+# Chapter 1. Difficulties of outsourcing and offshoring
+
 It’s distressing being a client on the receiving end of a remote team that delivers incomplete and broken features, slower than expected, in a manner that increases tech debt and degrades the codebase.
 
 It’s also disempowering to try everything you can to fix the situation, yet poor-quality interactions and high levels of rework remain the norm.
