@@ -8,6 +8,8 @@ By [Frank Ray, Software Engineer](https://frankray.net/start-here/).
 
 The underperformance of remote development teams is an uncomfortable topic for the software industry to talk about, particularly if you are in the business of buying or supplying low-cost, offshore developers.
 
+It also really sucks being a client on the receiving end of incomplete and broken features, delivered slower than expected, in a manner that increases tech debt and degrades the codebase.
+
 Thankfully, drastically improving the performance of remote teams is not as difficult or costly as you may think, and this book explains exactly how to do it.
 
 ## Table of contents
