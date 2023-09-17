@@ -14,7 +14,7 @@ Thankfully, drastically improving the performance of remote teams is not as diff
 
 [Chapter 1. Difficulties of outsourcing and offshoring](Chapter1.md)  
 [Chapter 2. Tyranny of poor software requirements](Chapter2.md)   
-Chapter 3. Clear and unambiguous software requirements  
+[Chapter 3. Clear and unambiguous software requirements](Chapter3.md)     
 Chapter 4. Examples of poor, better and best requirements  
 Chapter 5. Enabling and supporting factors for your remote team  
 Chapter 6. Having an engaged and switched on product owner  
