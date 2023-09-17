@@ -2,7 +2,7 @@
 
 What to do when your remote developers on the other side of the world aren't doing what you want.
 
-By Frank Ray, Software Engineer ([Website](https://frankray.net/start-here/))
+By [Frank Ray, Software Engineer](https://frankray.net/start-here/).
 
 ## Summary
 
