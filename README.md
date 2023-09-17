@@ -19,6 +19,14 @@ Chapter 4. Examples of poor, better and best requirements
 Chapter 5. Enabling and supporting factors for your remote team  
 Chapter 6. Having an engaged and switched on product owner  
 
+## Pavan, Demetri and Res
+
+These guys want to write good code, submit PR's multiple times per day, and be praised for being rockstar developers.
+
+![_d9879c5d-daa2-4799-a5d2-82714068a856_30percent](https://github.com/FrankRay78/troubleshooting-remote-development-teams/assets/52075808/aec45c9b-64ba-4e9c-9852-e3cc8de8fb2e)
+
+This guide contains everything you need to get them them performing well togther.
+
 ---
 
 **© Frank Ray Consulting Ltd.** *Software requirements for agile development teams, particularly distributed, remote and offshore development teams working in financial services.*
