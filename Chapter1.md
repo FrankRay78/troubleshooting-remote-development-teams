@@ -9,12 +9,16 @@ Being stuck with a development team because of lock-in and restrictive contractu
 Unfortunately, these experiences are only too familiar.<br/><br/>
 
 
+#### Agile won’t fix this for you
+
 Agile ways of working and client-led transformation programmes often assume outsourced and offshored teams are nothing more than geographically distant local teams, seeing fit to impose standardised processes across all teams. 
 
 However, the consequences of losing co-location, unavailability of a local product owner, different time zones, non-native English cultures, predominance of junior/boot camp trained coders, and command-and-control management styles must be adequately considered and understood.
 
 The effectiveness of agile working easily gets lost in the transition to fully remote development teams.<br/><br/>
 
+
+#### Outsourcing is difficult to get right
 
 The practices of outsourcing and offshoring development bring additional complexity and challenges over and above a team simply being remote, often exaggerating the experiences above.
 
