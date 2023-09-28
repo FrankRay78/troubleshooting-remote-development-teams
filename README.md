@@ -29,9 +29,7 @@ These guys want to write good code, submit PR's multiple times per day, and be p
 
 This guide contains everything you need to get them them performing well togther.
 
----
-
-#### Contributing
+## Contributing
 
 I've been writing this guide as a labour of love as and when time permits, however if you feel strongly about the topic and wish to consider a contribution, please [contact me](mailto:info@frankray.net) first ahead of submitting a PR.
 
