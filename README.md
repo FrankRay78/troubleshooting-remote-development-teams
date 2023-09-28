@@ -31,7 +31,7 @@ This guide contains everything you need to get them them performing well togther
 
 ## Contributing
 
-I've been writing this guide as a labour of love as and when time permits, however if you feel strongly about the topic and wish to consider a contribution, please [contact me](mailto:info@frankray.net) first ahead of submitting a PR.
+I've been writing this guide as and when time permits, however if you feel strongly about the topic and wish to consider a contribution, please [contact me](mailto:info@frankray.net) first ahead of submitting a PR.
 
 ---
 
