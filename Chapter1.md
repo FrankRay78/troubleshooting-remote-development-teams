@@ -25,7 +25,7 @@ And I can’t think of a big company I worked for that didn’t outsource and of
 Outsourcing and offshoring arrangements regularly fail to deliver the promised benefits, often costing much more than an equivalently sourced and managed development team or just a good local supplier.<br/><br/>
 
 
-## Developer productivity is declining
+#### Developer productivity is declining
 
 Recent interest in ‘developer productivity’ by the C-suites is a good indicator of developer teams failing to deliver as management expected.
 
