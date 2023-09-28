@@ -65,4 +65,4 @@ Sutherland addresses this issue in the St. Petersburg's scenario, saying:
 *"A lot of questions result after receiving the document in St. Petersburg which are resolved by in daily Scrum meetings, instant messaging, or email."*<br/><br/>
 
 
-Managers who prefer "talking" rather than reading/writing, quickly learn the benefits of clear and precise written instructions 😊
+Managers who prefer "talking" rather than reading/writing quickly learn to communicate using clear and concise written instructions 😊
