@@ -25,9 +25,11 @@ And I can’t think of a big company I worked for that didn’t outsource and of
 Outsourcing and offshoring arrangements regularly fail to deliver the promised benefits, often costing much more than an equivalently sourced and managed development team or just a good local supplier.<br/><br/>
 
 
+## Developer productivity is declining
+
 Recent interest in ‘developer productivity’ by the C-suites is a good indicator of developer teams failing to deliver as management expected.
 
 Underperformance is an uncomfortable topic for the software industry to talk about, particularly for individuals invested in agile frameworks and coaching and those buying and supplying low-cost development.<br/><br/>
 
 
-Thankfully, fixing broken remote teams and drastically improving their performance is not as difficult or costly as you may think. I’ll be explaining how to do this over the coming chapters.
+Thankfully, drastically improving the performance of remote teams is not as difficult or costly as you may think, and I’ll be explaining how to do this over the coming chapters.
