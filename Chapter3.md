@@ -2,11 +2,11 @@
 
 You cannot escape the need for clear requirements. 
 
-Because Agile without clear requirements is as bad as a poorly formed waterfall project. 
+Agile without clear requirements is as bad as a poorly formed waterfall project.
 
-Placeholders for conversations are nothing more than an idea that is ill-formed, and at worst, not even that.
+And 'placeholders for conversations' are nothing more than an idea that is ill-formed, and at worst, not even that.
 
-And many user stories are just too vague and open to interpretation. 
+Many user stories are just too vague and open to interpretation.
 
 What's missing? All the context.<br/><br/>
 
@@ -40,7 +40,7 @@ Someone knowledgeable, like a business analyst, can use the above as a guide to 
 
 Drafting good user stories is often a team sport, with clarifications and detail added through successive refinement and possibly by different team members.
 
-Requirements traceability is also an essential part of software development, and adequate documentation helps support this. 
+Adequate documentation also supports requirements traceability, an essential part of software development.
 
 And a good "definition of ready" within the team goes a long way, too.<br/><br/>
 
@@ -60,7 +60,7 @@ Even well-documented requirements cause problems due to misinterpretation, ambig
 
 This is why I'm a huge advocate of refinement, because if you devote time to this crucial activity, you stand more chance of building what is required and less chance of re-working it down the line. 
 
-Sutherland addresses this issue in the St. Petersburg's scenario, saying:
+Sutherland raises this point in the St. Petersburg's scenario, saying:
 
 *"A lot of questions result after receiving the document in St. Petersburg which are resolved by in daily Scrum meetings, instant messaging, or email."*<br/><br/>
 
