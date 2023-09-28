@@ -29,11 +29,11 @@ Pointing the finger at "poor performing developers" and low-quality engineering 
 
 Agile won’t fix this for you.
 
-Agile is often bandied around as the holy grail of solving a problem, but unfortunately, it won’t work this time.
+Agile is often held up as the holy grail of solving a problem, but unfortunately, it won’t work this time.
 
 You’ll see the truth in that statement if you already have an underperforming agile team.
 
-Agile may help you realise something is seriously wrong in time to avoid a spectacular disaster, if you are lucky.
+Agile may help you realise something is wrong in time to avoid a spectacular disaster, if you are lucky.
 
 Co-locating the team for a while may hasten the issue of an unavailable product owner or a product owner who doesn’t communicate what is required.<br/><br/>
 
