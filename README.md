@@ -31,4 +31,10 @@ This guide contains everything you need to get them them performing well togther
 
 ---
 
+#### Contributing
+
+I've been writing this guide as a labour of love as and when time permits, however if you feel strongly about the topic and wish to consider a contribution, please [contact me](mailto:info@frankray.net) first ahead of submitting a PR.
+
+---
+
 **© Frank Ray Consulting Ltd.** *Software requirements for agile development teams, particularly distributed, remote and offshore development teams working in financial services.*
