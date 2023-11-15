@@ -19,7 +19,7 @@ By Frank Ray [Website](https://frankray.net/start-here/) / [LinkedIn](https://ww
 * [Summary](#summary)
 * [Contributing](#contributing)
 
-## Introduction
+# Introduction
 
 Offshore development is pretty common these days, but well-performing offshore teams are less so. Broken and incomplete features, delivered slower than expected, with increasing tech debt and a degraded codebase, are the hallmarks of outsourced and offshore development.
 
@@ -37,7 +37,7 @@ These guys want to write good code, submit PR's multiple times per day, and be p
 
 This guide contains everything you need to get them performing well together.
 
-## Common problems
+# Common problems
 
 Poor communication, in some shape or form, is almost always the problem. It’s not always easy to see, so here are a few examples.
 
@@ -65,7 +65,7 @@ Losing co-location, inaccessible product owners, different time zones, non-nativ
 
 The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits.
 
-## Improving remote development
+# Improving remote development
 
 The solution is knowing what to build and communicating it effectively to the developers. Working well together counts for a lot, as well.
 
@@ -91,7 +91,7 @@ Remote teams that work similar hours to the local business can more readily act 
 
 Alternatively, many offshore teams perform best when they are responsible for end-to-end work rather than bouncing part-finished work back & forth between distributed teams, avoiding the need to collaborate, reducing decision latency and promoting maximum workflow.
 
-## Summary
+# Summary
 
 Offshore development is pretty common these days, but well-performing offshore teams are less so. But it doesn’t need to be like this.
 
