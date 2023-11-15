@@ -101,7 +101,7 @@ Improving remote development is easier and less costly than you may think, but i
 
 If you are unhappy with your development team, they may need more detailed guidance.
 
-Clear and effective software requirements can help with this.
+Clear and effective software requirements can help with this. [Get in touch if you need our help](https://frankray.net)
 
 ## Contributing
 
@@ -109,4 +109,4 @@ Please raise an issue if there is a topic you feel the above guide should includ
 
 I work on this guide as and when time permits. 
 
-**© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services. [Get in touch if you need our help](https://frankray.net)*
+**© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services.*
