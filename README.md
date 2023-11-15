@@ -90,6 +90,8 @@ Clear and effective software requirements can help with this.
 
 ## Contributing
 
-I've been writing this guide as and when time permits, however if you feel strongly about the topic and wish to consider a contribution, please [contact me](mailto:info@frankray.net) first ahead of submitting a PR.
+Please raise an issue if there is a topic you feel the above guide should include. 
 
-**© Frank Ray Consulting Ltd.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services.*
+I work on this guide as and when time permits. 
+
+**© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services. [Get in touch if you need our help](https://frankray.net)*
