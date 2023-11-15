@@ -2,7 +2,7 @@
 
 What to do when developers on the other side of the planet aren’t doing what you need.
 
-By Frank Ray [Website](https://frankray.net/start-here/) / [LinkedIn](https://www.linkedin.com/in/frankray/) / [Email](mailto:info@frankray.net)
+By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://www.linkedin.com/in/frankray/) / [Email](mailto:info@frankray.net)
 
 ## Contents
 
