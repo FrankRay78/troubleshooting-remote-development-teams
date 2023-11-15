@@ -4,6 +4,21 @@ What to do when developers on the other side of the planet aren’t doing what y
 
 By Frank Ray [Website](https://frankray.net/start-here/) / [LinkedIn](https://www.linkedin.com/in/frankray/) / [Email](mailto:info@frankray.net)
 
+## Contents
+
+* [Introduction](#introduction)
+    - [Pavan, Demetri and Res](#pavan-demetri-and-res)
+* [Common problems](#common-problems)
+    - [Poor direction](#poor-direction)
+    - [Poor requirements](#poor-requirements)
+    - [Lost agility](#lost-agility)
+* [Improving remote development](#improving-remote-development)
+    - [Knowing what to build](#knowing-what-to-build)
+    - [Communicating effectively](#communicating-effectively)
+    - [Working effectively](#working-effectively)
+* [Summary](#summary)
+* [Contributing](#contributing)
+
 ## Introduction
 
 Offshore development is pretty common these days, but well-performing offshore teams are less so. Broken and incomplete features, delivered slower than expected, with increasing tech debt and a degraded codebase, are the hallmarks of outsourced and offshore development.
@@ -20,7 +35,7 @@ These guys want to write good code, submit PR's multiple times per day, and be p
 
 ![_d9879c5d-daa2-4799-a5d2-82714068a856_30percent](https://github.com/FrankRay78/troubleshooting-remote-development-teams/assets/52075808/aec45c9b-64ba-4e9c-9852-e3cc8de8fb2e)
 
-This guide contains everything you need to get them them performing well together.
+This guide contains everything you need to get them performing well together.
 
 ## Common problems
 
