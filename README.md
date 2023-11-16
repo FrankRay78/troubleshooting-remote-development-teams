@@ -53,15 +53,17 @@ Specialist development roles have put an end to software developers actually spe
 
 I have never come across an underperforming development team that didn’t also have a requirements problem.
 
-Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required? Report back and tell me what you find.
+Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required? Follow the guidance [here](https://frankray.net/articles/clear-and-effective-user-stories/), if you need some help when doing this. Report back and tell me what you find.
 
 Developers struggle when the people who can answer questions are not readily accessible or available. Remote developers struggle more due to their lack of co-location and increased reliance on written communication.
+
+Difficulty hustling answers in real-time, waiting on emails and language barriers are all things a local development team would never face.
 
 #### Lost agility
 
 Seeing outsourced and offshore development teams the same as local teams often results in the same standardised processes being imposed on them as well.
 
-Losing co-location, inaccessible product owners, different time zones, non-native English cultures, the predominance of junior and bootcamp coders, and command-and-control account management bring significant challenges not present in local development.
+Losing co-location, inaccessible product owners, different time zones, non-native English cultures, the predominance of junior and bootcamp coders, and command-and-control account management bring significant challenges not present in local agile development.
 
 The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits.
 
