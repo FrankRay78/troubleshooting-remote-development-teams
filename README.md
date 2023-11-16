@@ -97,7 +97,7 @@ Alternatively, many offshore teams perform best when they are responsible for en
 
 Offshore development is pretty common these days, but well-performing offshore teams are less so. Being on the receiving end of poorly built software is upsetting, particularly if your experiences have left you feeling powerless. But it doesn’t need to be like this.
 
-The solution is knowing what to build and communicating it effectively to the developers doing the work. Well-defined user stories provide a clear understanding of what to achieve and sufficient information for the developer to make the right decisions. 
+The solution is knowing what to build and communicating it effectively to the developers doing the work. Good product ownership aims to better meet the needs of stakeholders in each software release, and well-defined user stories provide developers with the information they need to make the right decisions.
 
 Improving remote development is easier and less costly than you may think, but it does mean changing how a company works. The development team and company management must really want to. Otherwise, inertia takes hold and everything stays the same.
 
