@@ -73,6 +73,8 @@ The solution is knowing what to build and communicating it effectively to the de
 
 Understanding stakeholder needs is the foundation of every software product and should be a continuous and ongoing activity. But moving beyond ideas and concepts is hard work because you need to really think about what should be done. 
 
+It's not enough to ask users, “Tell me what you want”, because they don’t always know how to answer the question. Really understanding problems and pain points is what requirements gathering is all about, a human activity that takes time and patience to do well.
+
 Somebody needs to decide which new product features will best satisfy the stakeholders and when precisely to deliver them. Product decisions are highly visible, long-lasting and impact real users, making product ownership challenging but incredibly rewarding.
 
 #### Communicating effectively
