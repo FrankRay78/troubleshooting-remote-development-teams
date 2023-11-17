@@ -12,6 +12,7 @@ By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://w
     - [Poor direction](#poor-direction)
     - [Poor requirements](#poor-requirements)
     - [Lost agility](#lost-agility)
+    - [Outsourcing is difficult to get right](#outsourcing-is-difficult-to-get-right)
 * [Improving remote development](#improving-remote-development)
     - [Knowing what to build](#knowing-what-to-build)
     - [Communicating effectively](#communicating-effectively)
@@ -65,7 +66,17 @@ Seeing outsourced and offshore development teams the same as local teams often r
 
 Losing co-location, inaccessible product owners, different time zones, non-native English cultures, the predominance of junior and bootcamp coders, and command-and-control account management bring significant challenges not present in local agile development.
 
-The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits. This only confirms the unspoken fear that the new offshore team will be less productive, less responsive, and less capable than the local team being replaced.
+The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits. This only confirms unspoken fears that the new offshore team will be less productive, less responsive, and less capable than the local team being replaced.
+
+#### Outsourcing is difficult to get right
+
+The outsourcing and offshoring industry is a massive juggernaut with an appealing management case, namely low-cost development and a longer workday across time zones. 
+
+I can’t think of a big company that didn’t outsource and offshore their software development, either fully or in part, and certainly the practice is here to stay.
+
+Outsourced and offshore development brings complexity and challenges over and above a team simply being remote, regularly failing to deliver the promised benefits and costing more than an individually sourced development team or just a good local supplier.
+
+Being stuck with a development team because of vendor lock-in and restrictive contractual terms only widens the divide and sours working relationships further.
 
 # Improving remote development
 
@@ -109,6 +120,6 @@ If you are unhappy with your development team, they may need more detailed guida
 
 Raise an issue if there is a topic you feel this guide should include, or get in touch directly if you are considering making a direct contribution via a PR. 
 
-Please note that I work on this guide as and when time permits. 
+Please note, I work on this guide as and when time permits. 
 
 **© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services. [Get in touch if you need our help](https://frankray.net)*
