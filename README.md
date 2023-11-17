@@ -65,7 +65,7 @@ Seeing outsourced and offshore development teams the same as local teams often r
 
 Losing co-location, inaccessible product owners, different time zones, non-native English cultures, the predominance of junior and bootcamp coders, and command-and-control account management bring significant challenges not present in local agile development.
 
-The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits.
+The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits. This only confirms the unspoken fear that the new offshore team will be less productive, less responsive, and less capable than the local team being replaced.
 
 # Improving remote development
 
