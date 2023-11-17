@@ -53,7 +53,7 @@ Specialist development roles have put an end to software developers actually spe
 
 Teams with poor software requirements don’t deliver well on them. Remote, outsourced and offshore teams with poor requirements fare even worse. I have never come across an underperforming development team that didn’t also have a requirements problem.
 
-Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required?  Report back and tell me what you find. Follow the guidance [here](https://frankray.net/articles/clear-and-effective-user-stories/), if you need some help when doing this.
+Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required?  Report back and tell me what you find. Follow the guidance [here](https://frankray.net/articles/clear-and-effective-user-stories/), if you need some help when assessing the requirements.
 
 Developers struggle when the people who can answer questions are not readily accessible or available. Remote developers struggle more due to their lack of co-location and increased reliance on written communication.
 
@@ -107,8 +107,8 @@ If you are unhappy with your development team, they may need more detailed guida
 
 ## Contributing
 
-Please raise an issue if there is a topic you feel the above guide should include. 
+Raise an issue if there is a topic you feel this guide should include, or get in touch directly if you are considering making a direct contribution via a PR. 
 
-I work on this guide as and when time permits. 
+Please note that I work on this guide as and when time permits. 
 
 **© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services. [Get in touch if you need our help](https://frankray.net)*
