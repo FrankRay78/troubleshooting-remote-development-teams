@@ -23,9 +23,9 @@ By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://w
 
 Offshore development is pretty common these days, but well-performing offshore teams are less so. Broken and incomplete features, delivered slower than expected, with increasing tech debt and a degraded codebase, are the hallmarks of outsourced and offshore development.
 
-Being on the receiving end of a poorly performing remote development team is distressing. It’s even more upsetting if you previously had an excellent local development team you waved goodbye to.
+Being on the receiving end of a poorly performing remote development team is distressing, especially if you've tried everything you can to fix the situation but poor-quality interactions and high levels of rework remain the norm. It’s even more upsetting if you previously had an excellent local development team you waved goodbye to.
 
-Underperformance of remote development teams is an uncomfortable topic for the industry to talk about, particularly if you are in the business of supplying low-cost, offshore developers.
+Underperformance of remote development teams is an uncomfortable topic for the industry to talk about, particularly if you are in the business of supplying low-cost, offshore developers. Recent interest in ‘developer productivity’ by the C-suites is a good indicator of developer teams failing to deliver as management expected.
 
 Lacking the expertise to manage a remote development team increases the chance of things going wrong, and not having deep enough pockets to withstand the difficulties can be catastrophic. Unfortunately, these experiences are only too familiar.
 
