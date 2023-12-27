@@ -8,15 +8,10 @@ By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://w
 
 * [Introduction](#introduction)
     - [Pavan, Demetri and Res](#pavan-demetri-and-res)
-* [Common problems](#common-problems)
-    - [Poor direction](#poor-direction)
-    - [Poor requirements](#poor-requirements)
-    - [Lost agility](#lost-agility)
-    - [Outsourcing is difficult to get right](#outsourcing-is-difficult-to-get-right)
-* [Improving remote development](#improving-remote-development)
+* [Improving offshore software development](#improving-offshore-software-development)
     - [Knowing what to build](#knowing-what-to-build)
     - [Communicating effectively](#communicating-effectively)
-    - [Working effectively](#working-effectively)
+    - [Working well together](#working-well-together)
 * [Summary](#summary)
 * [Contributing](#contributing)
 
@@ -25,8 +20,6 @@ By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://w
 Offshore development is pretty common these days, but well-performing offshore teams are less so. Broken and incomplete features, delivered slower than expected, with increasing tech debt and a degraded codebase, are the hallmarks of outsourced and offshore development.
 
 Being on the receiving end of a poorly performing remote development team is distressing, especially if you've tried everything you can to fix the situation but poor-quality interactions and high levels of rework remain the norm. It’s even more upsetting if you previously had an excellent local development team you waved goodbye to.
-
-Underperformance of remote development teams is an uncomfortable topic for the industry to talk about, particularly if you are in the business of supplying low-cost, offshore developers. Recent interest in ‘developer productivity’ by the C-suites is a good indicator of developer teams failing to deliver as management expected.
 
 Lacking the expertise to manage a remote development team increases the chance of things going wrong, and not having deep enough pockets to withstand the difficulties can be catastrophic. Unfortunately, these experiences are only too familiar.
 
@@ -38,77 +31,45 @@ These are the guys on the other side of the planet. They don't want to be stuck 
 
 This guide contains everything you need to get them performing well together.
 
-# Common problems
+# Improving offshore software development
 
-Poor communication, in some shape or form, is almost always the problem. It’s not always easy to see, so here are a few examples.
+Poor communication, in some shape or form, is almost always the problem. It’s not always easy to see, so here are the areas to focus on.
 
-#### Poor direction
+#### 1. Knowing what to build
 
-Expecting developers to magic something from a vague idea or a one-sentence user story isn’t a particularly helpful approach.
+Expecting developers to magic something from a vague idea or a one-sentence user story isn’t a particularly helpful approach. Whilst technical staff are great at solving relatively well-bounded technical problems, they are dire at stepping into the customer’s shoes. Offshore software developers don’t usually speak to end users anyway.
 
-Whilst technical staff are great at solving relatively well-bounded technical problems, they are almost always dire at stepping into the customer’s shoes.
+Understanding stakeholder needs is the foundation of every software product and should be a continuous and ongoing activity. But moving beyond ideas and concepts is hard work because you need to really think about what should be done.
 
-Specialist development roles have put an end to software developers actually speaking to end users. And most wouldn’t want to anyway.
+It’s not enough to ask users, “Tell me what you want”, because they don’t always know how to answer the question. Really understanding their needs and devising appropriate solutions is what requirements gathering is all about, a human activity that takes time and patience to do well.
 
-#### Poor requirements
+Somebody must decide which features will best satisfy users and stakeholders, and when precisely to deliver them. Product decisions are highly visible, long-lasting and impact real users, making product ownership challenging but incredibly valuable and very rewarding.
+
+#### 2. Communicating effectively
 
 Teams with poor software requirements don’t deliver well on them. Remote, outsourced and offshore teams with poor requirements fare even worse. I have never come across an underperforming development team that didn’t also have a requirements problem.
 
-Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required?  Report back and tell me what you find. Follow the guidance [here](https://frankray.net/articles/clear-and-effective-user-stories/), if you need some help when assessing the requirements.
-
-Developers struggle when the people who can answer questions are not readily accessible or available. Remote developers struggle more due to their lack of co-location and increased reliance on written communication.
-
-Difficulty hustling answers in real-time, waiting on emails and language barriers are all things a local development team would never face.
-
-#### Lost agility
-
-Seeing outsourced and offshore development teams the same as local teams often results in the same standardised processes being imposed on them as well.
-
-Losing co-location, inaccessible product owners, different time zones, non-native English cultures, the predominance of junior and bootcamp coders, and command-and-control account management bring significant challenges not present in local agile development.
-
-The effectiveness of agile working easily gets lost in the transition to remote development, along with the espoused cost benefits. This only confirms unspoken fears that the new offshore team will be less productive, less responsive, and less capable than the local team being replaced.
-
-#### Outsourcing is difficult to get right
-
-The outsourcing and offshoring industry is a massive juggernaut with an appealing management case, namely low-cost development and a longer workday across time zones. 
-
-I can’t think of a big company that didn’t outsource and offshore their software development, either fully or in part, and certainly the practice is here to stay.
-
-Outsourced and offshore development brings complexity and challenges over and above a team simply being remote, regularly failing to deliver the promised benefits and costing more than an individually sourced development team or just a good local supplier.
-
-Being stuck with a development team because of vendor lock-in and restrictive contractual terms only widens the divide and sours working relationships further.
-
-# Improving remote development
-
-The solution is knowing what to build and communicating it effectively to the developers. Working well together counts for a lot, as well.
-
-#### Knowing what to build
-
-Understanding stakeholder needs is the foundation of every software product and should be a continuous and ongoing activity. But moving beyond ideas and concepts is hard work because you need to really think about what should be done. 
-
-It's not enough to ask users, “Tell me what you want”, because they don’t always know how to answer the question. Really understanding problems and pain points is what requirements gathering is all about, a human activity that takes time and patience to do well.
-
-Somebody needs to decide which new product features will best satisfy the stakeholders and when precisely to deliver them. Product decisions are highly visible, long-lasting and impact real users, making product ownership challenging but incredibly rewarding.
-
-#### Communicating effectively
+Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required? Report back and tell me what you find. Follow the guidance here, if you need help assessing the requirements.
 
 Developers need a clear understanding of what to do. Some developers tolerate ambiguity better than others. However, they still need a clear understanding of what to do.
 
-User stories provide a clear understanding of what to achieve and sufficient information for the developer to make the right implementation decisions. Solutions are not prescribed, unless there is good reason to, as the developer’s job is to figure that out.
+User stories describe what is needed and provide sufficient information for the developer to make the right decisions. Technical design and implementation are not prescribed, unless there is good reason to do so, as the developer’s job is to figure that out.
 
-Refinement sessions ensure stories contain the necessary information for developers to work without unexpected blockers or the need for unplanned, ad-hoc conversations. Well-defined user stories are your best chance of building what is required and avoiding re-work later on.
+Refinement sessions ensure developers understand the stories and can work without unexpected blockers or the need for unplanned, ad-hoc conversations. Well defined user stories are your best chance of building what is required and avoiding waste and re-work later on.
 
-#### Working effectively
+#### 3. Working well together
 
-Understand the offshore developers and accommodate their needs as best as possible, avoiding the temptation to impose local processes without first assessing their suitability.
+Developers struggle when the people who can answer questions are not readily accessible or available. Remote developers struggle more due to their lack of co-location and increased reliance on written communication. Difficulty getting answers in real-time, waiting on emails and language barriers are all things a local development team would never face.
 
-Remote teams that work similar hours to the local business can more readily act as an extension of the local workforce. Active engagement and good communication between both sides support more intensive ways of working, such as a local Product Owner-led remote Scrum team.
+Understand the offshore developers and accommodate their needs as best as possible, avoiding the temptation to impose local processes without first assessing their suitability. Meet up in real life, put some faces to names and get to know each other.
 
-Alternatively, many offshore teams perform best when they are responsible for end-to-end work rather than bouncing part-finished work back & forth between distributed teams, avoiding the need to collaborate, reducing decision latency and promoting maximum workflow.
+Offshore teams that work similar hours to the local business can more readily act as an extension of the local workforce. Active engagement and good communication between both sides support more intensive ways of working, such as a local Product Owner-led, remote Scrum team.
+
+Alternatively, many offshore teams perform best when they are responsible for end-to-end feature development rather than bouncing part-finished work between distributed teams. This avoids the need to collaborate, reduces decision latency and promotes maximum workflow.
 
 # Summary
 
-Offshore development is pretty common these days, but well-performing offshore teams are less so. Being on the receiving end of poorly built software is upsetting, particularly if your experiences have left you feeling powerless. But it doesn’t need to be like this.
+Offshore development is pretty common these days, but well-performing offshore teams are less so. Being on the receiving end of poorly built software is upsetting, especially if you've tried everything you can to fix the situation. But it doesn’t need to be like this.
 
 The solution is knowing what to build and communicating it effectively to the developers doing the work. Good product ownership aims to better meet the needs of stakeholders in each software release, and well-defined user stories provide developers with the information they need to make the right decisions.
 
