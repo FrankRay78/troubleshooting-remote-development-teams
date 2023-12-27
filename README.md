@@ -51,7 +51,7 @@ Read more: [How to gather better software requirements](https://frankray.net/bet
 
 Teams with poor software requirements don’t deliver well on them. Remote, outsourced and offshore teams with poor requirements fare even worse. I have never come across an underperforming development team that didn’t also have a requirements problem.
 
-Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required? Report back and tell me what you find. Follow the guidance here, if you need help assessing the requirements.
+Select a few requirements from your team to inspect. Are they clear and effective? Do they convey the outcome required? Report back and tell me what you find.
 
 Developers need a clear understanding of what to do. Some developers tolerate ambiguity better than others. However, they still need a clear understanding of what to do.
 
