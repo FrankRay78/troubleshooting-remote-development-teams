@@ -45,6 +45,8 @@ It’s not enough to ask users, “Tell me what you want”, because they don’
 
 Somebody must decide which features will best satisfy users and stakeholders, and when precisely to deliver them. Product decisions are highly visible, long-lasting and impact real users, making product ownership challenging but incredibly valuable and very rewarding.
 
+Read more: [How to gather better software requirements](https://frankray.net/better-software-requirements/how-to-gather-better-software-requirements/)
+
 #### 2. Communicating effectively
 
 Teams with poor software requirements don’t deliver well on them. Remote, outsourced and offshore teams with poor requirements fare even worse. I have never come across an underperforming development team that didn’t also have a requirements problem.
@@ -56,6 +58,8 @@ Developers need a clear understanding of what to do. Some developers tolerate am
 User stories describe what is needed and provide sufficient information for the developer to make the right decisions. Technical design and implementation are not prescribed, unless there is good reason to do so, as the developer’s job is to figure that out.
 
 Refinement sessions ensure developers understand the stories and can work without unexpected blockers or the need for unplanned, ad-hoc conversations. Well defined user stories are your best chance of building what is required and avoiding waste and re-work later on.
+
+Read more: [How to write better software requirements](https://frankray.net/better-software-requirements/how-to-write-better-software-requirements/)
 
 #### 3. Working well together
 
@@ -75,7 +79,7 @@ The solution is knowing what to build and communicating it effectively to the de
 
 Improving remote development is easier and less costly than you may think, but it does mean changing how a company works. The development team and company management must really want to. Otherwise, inertia takes hold and everything stays the same.
 
-If you are unhappy with your development team, they may need more detailed guidance. Clear and effective software requirements can help with this. 
+If you are unhappy with your development team, they may need more detailed guidance. Clear and effective [software requirements](https://frankray.net/services/) can help with this. 
 
 ## Contributing
 
