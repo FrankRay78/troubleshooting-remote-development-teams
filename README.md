@@ -9,9 +9,9 @@ By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://w
 * [Introduction](#introduction)
     - [Pavan, Demetri and Res](#pavan-demetri-and-res)
 * [Improving offshore software development](#improving-offshore-software-development)
-    - [Knowing what to build](#knowing-what-to-build)
-    - [Communicating effectively](#communicating-effectively)
-    - [Working well together](#working-well-together)
+    - [1. Knowing what to build](#1-knowing-what-to-build)
+    - [2. Communicating effectively](#2-communicating-effectively)
+    - [3. Working well together](#3-working-well-together)
 * [Summary](#summary)
 * [Contributing](#contributing)
 
