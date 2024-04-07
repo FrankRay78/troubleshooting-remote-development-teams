@@ -2,7 +2,7 @@
 
 What to do when developers on the other side of the planet aren’t doing what you need.
 
-By Frank Ray. [Website](https://frankray.net/start-here/) / [LinkedIn](https://www.linkedin.com/in/frankray/) / [Email](mailto:info@frankray.net)
+By Frank Ray. [Website](https://bettersoftware.uk) / [LinkedIn](https://www.linkedin.com/in/frankray/) / [Email](mailto:info@bettersoftware.uk)
 
 ## Contents
 
@@ -45,7 +45,7 @@ It’s not enough to ask users, “Tell me what you want”, because they don’
 
 Somebody must decide which features will best satisfy users and stakeholders, and when precisely to deliver them. Product decisions are highly visible, long-lasting and impact real users, making product ownership challenging but incredibly valuable and very rewarding.
 
-Read more: [How to gather better software requirements](https://frankray.net/articles/how-to-gather-better-software-requirements/)
+Read more: [How to gather better software requirements](https://bettersoftwarerequirements.com/#Gathering-software-requirements)
 
 #### 2. Communicating effectively
 
@@ -59,7 +59,7 @@ User stories describe what is needed and provide sufficient information for the 
 
 Refinement sessions ensure developers understand the stories and can work without unexpected blockers or the need for unplanned, ad-hoc conversations. Well defined user stories are your best chance of building what is required and avoiding waste and re-work later on.
 
-Read more: [How to write better software requirements](https://frankray.net/articles/how-to-write-better-software-requirements/)
+Read more: [How to write better software requirements](https://bettersoftwarerequirements.com/#Writing-software-requirements)
 
 #### 3. Working well together
 
@@ -79,7 +79,7 @@ The solution is knowing what to build and communicating it effectively to the de
 
 Improving remote development is easier and less costly than you may think, but it does mean changing how a company works. The development team and company management must really want to. Otherwise, inertia takes hold and everything stays the same.
 
-If you are unhappy with your development team, they may need more detailed guidance. Clear and effective [software requirements](https://frankray.net/services/) can help with this. 
+If you are unhappy with your development team, they may need more detailed guidance. [Better software requirements](https://bettersoftwarerequirements.com) can help with this. 
 
 ## Contributing
 
@@ -87,4 +87,4 @@ Raise an issue if there is a topic you feel this guide should include, or get in
 
 Please note, I work on this guide as and when time permits. 
 
-**© Frank Ray Consulting Ltd 2023.** *Software requirements for agile development teams, particularly remote, outsourced and offshore development teams working in financial services. [Get in touch if you need our help](https://frankray.net)*
+**© Better Software UK.** *Better software requirements can change the world. [Get in touch if you need our help](https://bettersoftware.uk)*
